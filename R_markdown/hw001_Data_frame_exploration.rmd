@@ -12,37 +12,47 @@ output: github_document
 First, check the existing packages in your computer. 
 `data(package = .packages(all.available = TRUE))`
 
-If you don't have the package you need, visit [Contributed Packages](https://cran.r-project.org), run `install.packages(yourpackage_name)` in the console before next move.
+If you don't have the package you need, visit [Contributed Packages](https://cran.r-project.org), run `install.packages(yourpackage_name)` in the console first.
 
 ### Choose package and data set
 
-Data set 'animals' in package ‘cluster’
+Data set 'survey' in package ‘MASS’
+
+'survey' is Student Survey Data
 
 ```{r}
-library(cluster)
+library(MASS)
 ```
 
 ```{r}
-print(animals)
+print(survey)
 ```
 
 
 ### Exploration of data frames
 
-Explore `animals` with functions like `name`, `head`, `tail`, `str`, `summary`.
+Explore `survey` with functions like `head`, `tail`, `str`, `summary`.
 
 ```{r}
-#list the variables in animals
-names(animals)
-#print first 5 rows in animals
-head(animals,n=5L)
-#print last 2 rows in animals
-tail(animals,n=2L)
-#list the structure of animals
-str(animals)
+#print first 5 rows in survey
+head(survey,n=5L)
+#print last 2 rows in survey
+tail(survey,n=2L)
+#list the structure of survey
+str(survey)
 #result summaries
-summary(animals)
+summary(survey)
 ```
 
 
+### Exploratory plot of survey data frames
 
+It summarizes the relationship between the 12 variables in 'survey' data frame
+```{r}
+plot(survey)
+```
+
+'smoke' versus 'height' from 'survey' data frame
+```{r}
+plot(survey$Smoke,survey$Height)
+```
