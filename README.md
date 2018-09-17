@@ -4,7 +4,7 @@
 
 |    **Items**    | **Status** |
 |----------------|------------|
-| [README.md](https://github.com/STAT545-UBC-students/hw01-Irissq28/edit/master/README.md) | Done :white_check_mark: |
+| [README.md](https://github.com/STAT545-UBC-students/hw01-Irissq28/blob/master/README.md) | Done :white_check_mark: |
 | [R Markdown](https://github.com/STAT545-UBC-students/hw01-Irissq28/blob/master/hw001_Data%20frame%20exploration.rmd) | Done :white_check_mark: |
 ## About me
 * **Brief intro**
