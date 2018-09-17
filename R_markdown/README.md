@@ -1,2 +1,2 @@
 ### R Markdown for cluster exploration
-#### The purpose of this folder is use R to explore a dataset, I choose 'cluster' dataset, for more informations, please feel free to check .rmd and .md
+#### The purpose of this folder is use R to explore a dataset, I choose 'cluster' dataset, for more informations, please feel free to check [.rmd](https://github.com/STAT545-UBC-students/hw01-Irissq28/blob/master/R_markdown/hw001_Data_frame_exploration.rmd) and [.md](https://github.com/STAT545-UBC-students/hw01-Irissq28/blob/master/R_markdown/hw001_Data_frame_exploration.md)
