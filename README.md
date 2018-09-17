@@ -15,6 +15,12 @@
   * ~~PHP~~ (A little bit :open_mouth:)
 * **I like** 
   * :camera:Photography
+    * ***Canada***
+      ![](https://github.com/STAT545-UBC-students/hw01-Irissq28/blob/master/pic1.jpeg)
+    
+    * ***Japan***
+      ![](https://github.com/STAT545-UBC-students/hw01-Irissq28/blob/master/pic2.JPG)
+      
   * :movie_camera:Movies
   
     * ***Harry Potter***
