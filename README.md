@@ -8,7 +8,7 @@
 | [R Markdown](https://github.com/STAT545-UBC-students/hw01-Irissq28/blob/master/R_markdown/hw001_Data_frame_exploration.rmd) | Done :white_check_mark: |
 ## About me
 * **Brief intro**
-  * I'm Siqi An, a second year graduate student in *Electrical and Computer Engineering* department.
+  * I'm Siqi An, a second year graduate student in *Electrical and Computer Engineering* department. BTW, I like coding (really?:joy:)
 * **Programming language**
   * Python
   * Java
